@@ -1,14 +1,10 @@
 Package.describe({
-  summary: "RateIt - a modern, mobile-friendly, jQuery (star) rating plugin"
+  summary: "tQuery with Physijs"
 });
 
 Package.on_use(function (api) {
-  api.use('jquery', 'client');
   api.add_files([
-    'lib/jquery.rateit.js',
-    'lib/rateit.css',
-    'lib/star.gif',
-    'lib/delete.gif'
+    'lib/tqueryphys.min.js'
   ], 'client'
   );
 });
