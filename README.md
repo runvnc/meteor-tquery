@@ -1,1 +1,1 @@
-Meter plugin for including tQuery (Three.js plugin system)
+Meteor plugin for including tQuery (Three.js plugin system)
