@@ -1,1 +1,1 @@
-Meteor plugin for including tQuery (Three.js plugin system)
+[tQuery](http://jeromeetienne.github.io/tquery/), the [Three.js](http://threejs.org/) 3D graphics jQuery plugin system, repackaged for Meteor.
